@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stoneplus",
+  "name": "Stone+",
+  "description": "A mod designed to bring back colored cobblestone from 1.7.10, as well as stone and stone brick variants.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Shindur", "Tooltackle"],
+  "credits": "The Forge and FML guys, for making modding possible, and RWTema for originally bringing colored cobble to minecraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
